@@ -1,5 +1,4 @@
 # repoChallenge
 primer repo de clase
 
-En este texto solo añado información principal para la gente que quiera colaborar con este archivo 
-no lleva código sino texto plano.
+Se borró el texto anterior solo para ver los diferentes cambios dentro del historial. 
